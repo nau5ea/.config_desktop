@@ -1,1 +1,3 @@
-/home/void/.vimrc
+set number
+inoremap jk <ESC>
+syntax on
