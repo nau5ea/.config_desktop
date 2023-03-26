@@ -1,0 +1,14 @@
+00:45:00
+set output_plugin=pulse
+set output_plugin pulse
+set output-plugin pulse
+set output-plugin pulseaudio
+set output-plugin pa
+plugins
+set mpris=false
+set mpris=off
+set output_plugin pulseaudio
+set mixer.alsa.channel=Master
+set mixer.alsa.device=default
+set dsp.alsa.device=default
+set output_plugin=alsa

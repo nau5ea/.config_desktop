@@ -1,0 +1,25 @@
+[org/gtk/settings/file-chooser]
+window-position=(3200, 19)
+window-size=(1124, 822)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=156
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+
+[org/gnome/gedit/state/window]
+bottom-panel-size=140
+side-panel-active-page='GeditWindowDocumentsPanel'
+side-panel-size=200
+size=(1044, 1003)
+state=128
+
+[org/gnome/gedit/plugins/filebrowser]
+tree-view=true
+root='file:///'
+virtual-root='file:///home/void'

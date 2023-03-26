@@ -1,0 +1,1 @@
+/home/void/.bash_profile

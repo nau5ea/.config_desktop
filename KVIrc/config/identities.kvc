@@ -1,0 +1,21 @@
+# KVIrc configuration file
+[Default]
+Gender=
+AltNickName1=newbie|2
+UserMode=
+AltNickName2=newbie|3
+QuitMessage=KVIrc%20$version(v)%20$version(n)%20http://www.kvirc.net/
+OnConnectCommand=
+AltNickName3=newbie|4
+NickName=newbie
+OtherInfo=
+PartMessage=No%20boundaries%20on%20the%20net!
+Location=
+Avatar=
+Age=
+UserName=kvirc
+OnLoginCommand=
+Password=
+Languages=
+[KVIrc]
+DefaultIdentity=Default
